@@ -1,0 +1,1 @@
+Banco de dados criao para apredender Sql pelo Curso em Vídeo
